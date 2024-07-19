@@ -25,7 +25,7 @@ This repository contains my solutions to the HackerRank 30 Days of Code challeng
 ## HackerRank 30 Days of Code Badge
 
 <a href="https://www.hackerrank.com/Pavith19">
-<img alt="30 Days of Code" src="https://hrcdn.net/community-frontend/assets/badges/30_days_of_code_5_star.png" width = 100 ></a>
+<img alt="30 Days of Code" src="Badge/30_days_of_code_5_star.png" width = 100 ></a>
 
 ## Challenges
 
