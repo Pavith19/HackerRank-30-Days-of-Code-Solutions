@@ -1,4 +1,4 @@
-[![GitHub Written in](https://img.shields.io/badge/Written%20in-Python%2C%20Java%2C%20JavaScript-blue)](https://shields.io/)
+[![GitHub Written in](https://img.shields.io/badge/Written%20in-Python%7CJava%7CJavaScript-blue)](https://shields.io/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/HackerRank-30-Days-of-Code-Solutions)](https://github.com/Pavith19/HackerRank-30-Days-of-Code-Solutions/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/HackerRank-30-Days-of-Code-Solutions)](https://github.com/Pavith19/HackerRank-30-Days-of-Code-Solutions/archive/main.zip)
 ![ViewCount](https://views.whatilearened.today/views/github/Pavith19/HackerRank-30-Days-of-Code-Solutions.svg?cache=remove)
