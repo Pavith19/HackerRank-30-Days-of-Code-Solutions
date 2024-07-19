@@ -14,6 +14,19 @@
     <br>
 </p>
 
+## Description
+
+This repository contains my solutions to the HackerRank 30 Days of Code challenge. The solutions are implemented in Python. If you're stuck on any of the challenges, feel free to check this repository for guidance and solutions.
+
+## Personal HackerRank Profile
+
+[View Profile](https://www.hackerrank.com/Pavith19)
+
+## HackerRank 30 Days of Code Badge
+
+<a href="https://www.hackerrank.com/Pavith19">
+<img alt="30 Days of Code" src="https://hrcdn.net/community-frontend/assets/badges/30-days-of-code-9d18d4d176.svg" width = 100 ></a>
+
 | Day | Challenge |
 | --- | --------- |
 | 00  | [Hello, World](https://github.com/Pavith19/HackerRank-30-Days-of-Code-Solutions/tree/main/Day%2000_%20Hello%2C%20World) |
