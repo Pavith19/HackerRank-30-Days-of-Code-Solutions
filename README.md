@@ -1,3 +1,19 @@
+[![GitHub Written in](https://img.shields.io/badge/Written%20in-Python-blue)](https://img.shields.io/badge/Written%20in-Python-blue)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/HackerRank-30-Days-of-Code-Solutions)](https://github.com/Pavith19/HackerRank-30-Days-of-Code-Solutions/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/HackerRank-30-Days-of-Code-Solutions)](https://github.com/Pavith19/HackerRank-30-Days-of-Code-Solutions/archive/main.zip)
+![ViewCount](https://views.whatilearened.today/views/github/Pavith19/HackerRank-30-Days-of-Code-Solutions.svg?cache=remove)
+
+# HackerRank 30 Days of Code Solutions
+
+<p align="center">  
+	<br>
+	<a href="https://www.hackerrank.com/Pavith19">
+        <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
+    </a>
+    <br>
+    <br>
+</p>
+
 | Day | Challenge |
 | --- | --------- |
 | 00  | [Hello, World](https://github.com/Pavith19/HackerRank-30-Days-of-Code-Solutions/tree/main/Day%2000_%20Hello%2C%20World) |
