@@ -7,7 +7,7 @@
 
 <p align="center">  
 	<br>
-	<a href="https://www.hackerrank.com/Pavith19">
+	<a href="https://www.hackerrank.com/profile/Pavith_DB">
         <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
     </a>
     <br>
@@ -20,11 +20,11 @@ Welcome to the HackerRank 30 Days of Code Solutions repository! This collection 
 
 ## Personal HackerRank Profile
 
-[View Profile](https://www.hackerrank.com/Pavith19)
+[View Profile](https://www.hackerrank.com/profile/Pavith_DB)
 
 ## HackerRank 30 Days of Code Badge
 
-<a href="https://www.hackerrank.com/Pavith19">
+<a href="https://www.hackerrank.com/profile/Pavith_DB">
 <img alt="30 Days of Code" src="Badge/30_days_of_code_5_star.png" width = 100 ></a>
 
 ## Challenges
