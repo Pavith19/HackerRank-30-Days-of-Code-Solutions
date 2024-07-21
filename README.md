@@ -18,11 +18,11 @@
 
 Welcome to the HackerRank 30 Days of Code Solutions repository! This collection showcases my solutions to the HackerRank 30 Days of Code challenge, implemented in Python, Java, and JavaScript. If you're stuck on any of the challenges, feel free to check this repository for guidance and solutions.
 
-## Personal HackerRank Profile
+# [Personal HackerRank Profile]()
 
 [View Profile](https://www.hackerrank.com/profile/Pavith_DB)
 
-## HackerRank 30 Days of Code Badge
+# [HackerRank 30 Days of Code Badge]()
 
 <a href="https://www.hackerrank.com/profile/Pavith_DB">
 <img alt="30 Days of Code" src="Badge/30_days_of_code_5_star.png" width = 100 ></a>
