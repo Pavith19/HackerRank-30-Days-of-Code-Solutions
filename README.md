@@ -22,12 +22,12 @@ Welcome to the HackerRank 30 Days of Code Solutions repository! This collection 
 
 [View Profile](https://www.hackerrank.com/profile/Pavith_DB)
 
-# [HackerRank 30 Days of Code Badge]()
+## [HackerRank 30 Days of Code Badge]()
 
 <a href="https://www.hackerrank.com/profile/Pavith_DB">
 <img alt="30 Days of Code" src="Badge/30_days_of_code_5_star.png" width = 100 ></a>
 
-## Challenges
+## [Challenges]()
 
 | Day | Challenge |
 | --- | --------- |
@@ -62,11 +62,11 @@ Welcome to the HackerRank 30 Days of Code Solutions repository! This collection 
 | 28  | [RegEx, Patterns, and Intro to Databases](https://github.com/Pavith19/HackerRank-30-Days-of-Code-Solutions/tree/main/Day%2028_%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases) |
 | 29  | [Bitwise AND](https://github.com/Pavith19/HackerRank-30-Days-of-Code-Solutions/tree/main/Day%2029_%20Bitwise%20AND) |
 
-## Disclaimer
+## [Disclaimer]()
 
 These solutions are my own work and were created for educational purposes on HackerRank. They may not be the most optimal solutions, but they passed HackerRank’s test cases.
 
-## Contributing
+## [Contributing]()
 
 We welcome contributions to enhance this collection of HackerRank 30 Days of Code solutions:
 
@@ -75,8 +75,8 @@ We welcome contributions to enhance this collection of HackerRank 30 Days of Cod
 - **Multiple Language Implementations**: Add solutions in other programming languages.
 - **Improve Documentation**: Enhance the README, code comments or other documentation.
 
-## License
-
+## [License]()
+ 
 This project is open source and available under the [MIT License](LICENSE).
 
 
