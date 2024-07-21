@@ -14,11 +14,11 @@
     <br>
 </p>
 
-# [Description]()
+## [Description]()
 
 Welcome to the HackerRank 30 Days of Code Solutions repository! This collection showcases my solutions to the HackerRank 30 Days of Code challenge, implemented in Python, Java, and JavaScript. If you're stuck on any of the challenges, feel free to check this repository for guidance and solutions.
 
-# [Personal HackerRank Profile]()
+## [Personal HackerRank Profile]()
 
 [View Profile](https://www.hackerrank.com/profile/Pavith_DB)
 
