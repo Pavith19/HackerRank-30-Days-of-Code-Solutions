@@ -1,4 +1,7 @@
-#!/bin/python3
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 
 import math
 import os
