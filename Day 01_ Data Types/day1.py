@@ -1,3 +1,7 @@
+"""
+Author: Pavith Bambaravanage
+URL: https://github.com/Pavith19
+"""
 i = 4
 d = 4.0
 s = 'HackerRank '
