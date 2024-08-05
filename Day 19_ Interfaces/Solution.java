@@ -1,3 +1,8 @@
+/*
+ * Author: Pavith Bambaravanage
+ * URL: https://github.com/Pavith19
+ */
+
 import java.util.Scanner;
 
 interface AdvancedArithmetic {
