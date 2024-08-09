@@ -15,7 +15,7 @@
 2. **Clone your Fork:**
    - Clone the repository to your local machine:
      ```bash
-     git clone https://github.com/Pavith19/10-Days-Of-JavaScript-HackerRank.git
+     git clone https://github.com/Pavith19/HackerRank-30-Days-of-Code-Solutions.git
      ```
 
 3. **Create a New Branch:**
